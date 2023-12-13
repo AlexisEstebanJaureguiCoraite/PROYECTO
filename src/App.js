@@ -8,6 +8,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <Componente1></Componente1>
+        <p>No pude abjuntar los archivos que tengo pero tengo todo el codigo en html y bootstrap que se lee abajo todos los archivos como index1.html y muchos más</p>
       </header>
     </div>
   );
