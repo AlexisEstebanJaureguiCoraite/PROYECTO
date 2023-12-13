@@ -8,7 +8,6 @@ function App() {
     <div className="App">
       <header className="App-header">
         <Componente1></Componente1>
-        <Componente2></Componente2>
       </header>
     </div>
   );
